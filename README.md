@@ -1,3 +1,6 @@
-# Spring Cloud Examples
+# Spring Cloud Projects
 
 All projects here are related to Spring Cloud to track my learning in this technology.
+
+It includes:
+- Eureka Server

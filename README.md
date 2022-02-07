@@ -4,3 +4,4 @@ All projects here are related to Spring Cloud to track my learning in this techn
 
 It includes:
 - Eureka Server
+- Eureka Client
